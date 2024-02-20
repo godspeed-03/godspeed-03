@@ -1,4 +1,6 @@
+<img src="https://raw.githubusercontent.com/godspeed-03/godspeed-03/output/snake.svg" alt="Snake animation" />
 
+###
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satyam-anand-951b5621b/) 
 
