@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=godspeed-03&show_icons=true&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=godspeed-03&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=godspeed-03&layout=compact&theme=chartreuse-dark)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=@godspeed03&layout=compact&theme=neon)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=godspeed03&layout=compact&theme=neon)
 
 
 
