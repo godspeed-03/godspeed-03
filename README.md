@@ -1,6 +1,8 @@
 <img src="https://raw.githubusercontent.com/godspeed-03/godspeed-03/output/snake.svg" alt="Snake animation" />
 
 ## 🌐 Socials:
+[![Portfoilo](https://img.shields.io/badge/nxtdev-%25?style=for-the-badge&label=Portfolio&labelColor=balck&color=black&link=https%3A%2F%2Fnxtdev.in%2F)](https://nxtdev.in)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godspeed03/) 
 
 ## 💻 Tech Stack:
