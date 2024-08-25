@@ -15,6 +15,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=godspeed-03&theme=midnight-purple&hide_border=false)
 <br/>
 <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=godspeed-03&layout=compact&theme=chartreuse-dark)
+<br/>
+<br/>
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=godspeed03&layout=compact&theme=neon)
 
 
