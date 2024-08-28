@@ -145,7 +145,7 @@ Feel free to reach out or explore my projects to see my work in action!
 [![wakatime](https://wakatime.com/badge/user/d9eddcfd-8a78-4188-b6d9-6d0af2abf114.svg)](https://wakatime.com/@d9eddcfd-8a78-4188-b6d9-6d0af2abf114)
 
 ---
-<img src="https://raw.githubusercontent.com/godspeed-03/godspeed-03/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/godspeed-03/godspeed-03/output/snake.svg" alt="Snake animation" /> -->
 
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=godspeed-03&layout=compact&theme=chartreuse-dark) -->
