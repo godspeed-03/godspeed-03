@@ -27,9 +27,15 @@ I am proficient in C++, Python, JavaScript, and TypeScript, with extensive exper
 
 Feel free to reach out or explore my projects to see my work in action!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/godspeed03) 
-<br>
-[![NXTDEV](https://img.shields.io/badge/Nxtdev-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://nxtdev.in)
+<p align="center">
+  <a href="https://www.linkedin.com/in/godspeed03" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nxtdev.in" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Nxtdev-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="NXTDEV">
+  </a>
+</p>
 
 ---
 
