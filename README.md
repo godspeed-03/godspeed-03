@@ -17,7 +17,7 @@ I'm **Satyam**, a **Full-Stack Developer** with a strong passion for crafting sc
 
 
 
-I specialize in building robust backend architectures and modern, user-friendly interfaces. Whether starting from scratch or enhancing existing projects, I am committed to delivering high-quality and maintainable solutions that meet user needs and exceed expectations.
+I am proficient in C++, Python, JavaScript, and TypeScript, with extensive experience in both frontend and backend development. My work includes developing AI-driven tools for SEO automation, building systems for result management, social media platforms, e-commerce solutions, and portfolios. I have a strong background in project management and client relations, ensuring the delivery of high-quality, scalable solutions. My diverse skill set enables me to bridge the gap between technical implementation and strategic goals, consistently driving successful outcomes.
 
 
 ---
