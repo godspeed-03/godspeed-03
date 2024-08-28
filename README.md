@@ -2,40 +2,99 @@
 
 I'm **Satyam**, a **Full-Stack Developer** with a strong passion for crafting scalable web applications. My expertise includes:
 
-### 🛠️ Tech Stack
-
-
-<table>
-  <tr>
-    <th>Category</th>
-    <th>Technology / Skill</th>
-  </tr>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" style="margin: 0 95px 95px 0; display: inline-block;">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="margin: 0 5px 5px 0; display: inline-block;">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" style="margin: 0 5px 5px 0; display: inline-block;">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" style="margin: 0 5px 5px 0; display: inline-block;">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 0 5px 5px 0; display: inline-block;">
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style="margin: 0 5px 5px 0; display: inline-block;">
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" style="margin: 0 0 5px 0; display: inline-block;">
-    </td>
-  </tr>
-</table>
-
-
-
-
+### 🛠️ Tech Stack  
+<table border="1" cellpadding="10" cellspacing="0">
+    <tr>
+      <th>Category</th>
+      <th>Technology / Skill</th>
+    </tr>
+    <tr>
+      <td><strong>Languages</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" >
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" >
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" >
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" >
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" >
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" >
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" style="margin: 0 0 5px 0; display: inline-block;">
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Libraries/Frameworks</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" >
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" >
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" >
+        <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white" alt="Material-UI" >
+        <img src="https://img.shields.io/badge/Context_API-61DAFB?style=flat&logo=react&logoColor=black" alt="Context API" >
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" >
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" >
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" >
+        <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" alt="Mongoose" >
+        <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" alt="React Router" >
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white" alt="Chart.js" >
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" >
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass" style="margin: 0 0 5px 0; display: inline-block;">
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Databases</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" >
+        <img src="https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Cosmos DB" style="margin: 0 0 5px 0; display: inline-block;">
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tools</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" >
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" >
+        <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white" alt="Google Analytics" >
+        <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat&logo=google-tag-manager&logoColor=white" alt="Google Tag Manager" >
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress" >
+        <img src="https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white" alt="Webflow" >
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" >
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" >
+        <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white" alt="JIRA" >
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black" alt="Power BI" style="margin: 0 0 5px 0; display: inline-block;">
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Power BI" style="margin: 0 0 5px 0; display: inline-block;">
+      </td>
+    </tr>
+    <tr>
+        <td><strong>Cloud & Hosting</strong></td>
+        <td>
+            <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" style="margin: 0 0 5px 0; display: inline-block;">
+            <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify" style="margin: 0 0 5px 0; display: inline-block;">
+            <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" style="margin: 0 0 5px 0; display: inline-block;">
+            <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare" style="margin: 0 0 5px 0; display: inline-block;">
+            <img src="https://img.shields.io/badge/InMotion-DC1229?style=flat&logo=InMotion&logoColor=white" alt="InMotion Hosting" style="margin: 0 0 5px 0; display: inline-block;">
+            <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white" alt="DigitalOcean" style="margin: 0 0 5px 0; display: inline-block;">
+            <img src="https://img.shields.io/badge/Hostinger-5333ED?style=flat&logo=hostinger&logoColor=white" alt="Hostinger" style="margin: 0 0 5px 0; display: inline-block;">
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Others</strong></td>
+        <td>
+            <img src="https://img.shields.io/badge/SAAS-00A99D?style=flat&logo=saas&logoColor=white" alt="SAAS" style="margin: 0 0 5px 0; display: inline-block;">
+            <img src="https://img.shields.io/badge/DNS-0088CC?style=flat&logo=dns&logoColor=white" alt="DNS" style="margin: 0 0 5px 0; display: inline-block;">
+            <img src="https://img.shields.io/badge/Domain_Administration-006400?style=flat&logo=internet-explorer&logoColor=white" alt="Domain Administration" style="margin: 0 0 5px 0; display: inline-block;">
+            <img src="https://img.shields.io/badge/SSL/TLS-0082C9?style=flat&logo=let's-encrypt&logoColor=white" alt="SSL/TLS" style="margin: 0 0 5px 0; display: inline-block;">
+            <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white" alt="cPanel" style="margin: 0 0 5px 0; display: inline-block;">
+            <img src="https://img.shields.io/badge/WHM-29A3CC?style=flat&logo=whm&logoColor=white" alt="WHM" style="margin: 0 0 5px 0; display: inline-block;">
+        </td>
+      </tr>
+    <tr>
+      <td><strong>CMS</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Elementor-6DB33F?style=flat&logo=elementor&logoColor=white" alt="Elementor" >
+        <img src="https://img.shields.io/badge/Crocoblocks-FF6F61?style=flat&logo=crocoblocks&logoColor=white" alt="Crocoblocks" >
+        <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white" alt="WooCommerce" >
+      </td>
+    </tr>
+  </table>
   
-  | **Category**  | **Technology / Skill**                                                                                                                  |
-  |---------------|----------------------------------------------------------------------------------------------------------------------------------|
-  | **Languages** | <div class="margin-right: 10px; display:inline-block;">![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)</div> <div class="margin-right: 10px; display:inline-block;">![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)</div> |
-  | **Libraries/Frameworks** | <div class="margin-right: 10px; display:inline-block;">![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)</div> <div class="margin-right: 10px; display:inline-block;">![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat&logo=react&logoColor=black)</div> <div class="margin-right: 10px; display:inline-block;">![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)</div> |
-  | **Databases** | <div class="margin-right: 10px; display:inline-block;">![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat&logo=microsoft-azure&logoColor=white)</div> |
-  | **Tools** | <div class="margin-right: 10px; display:inline-block;">![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat&logo=google-tag-manager&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)</div> <div class="margin-right: 10px; display:inline-block;">![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)</div> |
-  | **Cloud & Hosting** | <div class="margin-right: 10px; display:inline-block;">![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![InMotion Hosting](https://img.shields.io/badge/InMotion-DC1229?style=flat&logo=InMotion&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![Hostinger](https://img.shields.io/badge/Hostinger-5333ED?style=flat&logo=hostinger&logoColor=white)</div> |
-  | **Others** | <div class="margin-right: 10px; display:inline-block;">![SAAS](https://img.shields.io/badge/SAAS-00A99D?style=flat&logo=saas&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![DNS](https://img.shields.io/badge/DNS-0088CC?style=flat&logo=dns&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![Domain Administration](https://img.shields.io/badge/Domain_Administration-006400?style=flat&logo=internet-explorer&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![SSL/TLS](https://img.shields.io/badge/SSL/TLS-0082C9?style=flat&logo=let's-encrypt&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white)</div> <div class="margin-right: 10px; display:inline-block;">![WHM](https://img.shields.io/badge/WHM-29A3CC?style=flat&logo=whm&logoColor=white)</div> |
+
   
 I am proficient in C++, Python, JavaScript, and TypeScript, with extensive experience in both frontend and backend development. My work includes developing AI-driven tools for SEO automation, building systems for result management, social media platforms, e-commerce solutions, and portfolios. I have a strong background in project management and client relations, ensuring the delivery of high-quality, scalable solutions. My diverse skill set enables me to bridge the gap between technical implementation and strategic goals, consistently driving successful outcomes.
 
