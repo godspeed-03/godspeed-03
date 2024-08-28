@@ -1,9 +1,26 @@
-<img src="https://raw.githubusercontent.com/godspeed-03/godspeed-03/output/snake.svg" alt="Snake animation" />
+# 👨‍💻 Hi there! 👋
 
-## 🌐 Socials:
-[![Portfoilo](https://img.shields.io/badge/nxtdev-%25?style=for-the-badge&label=Portfolio&labelColor=balck&color=black&link=https%3A%2F%2Fnxtdev.in%2F)](https://nxtdev.in)
+I'm **Satyam**, a **Full-Stack Developer** with a strong passion for crafting scalable web applications. My expertise includes:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godspeed03/) 
+### 💼 Tech Stack
+
+- **Languages**: C++, Python, HTML5, CSS3, JavaScript, TypeScript, SQL
+- **Libraries/Frameworks**: Tailwind CSS, React, Next.js, Material-UI (MUI), Context API, Redux, Node.js, Express.js, Mongoose
+- **Databases**: MongoDB, Cosmos DB
+- **Tools**: Git, GitHub, Google Analytics 4 (GA4), Google Tag Manager (GTM), WordPress, Webflow, VS Code, Postman, JIRA, Power BI, Excel
+- **Clouds**: Azure
+  
+I specialize in building robust backend architectures and modern, user-friendly interfaces. Whether starting from scratch or enhancing existing projects, I am committed to delivering high-quality and maintainable solutions that meet user needs and exceed expectations.
+---
+### 🌐 Let's Connect
+
+Feel free to reach out or explore my projects to see my work in action!
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/godspeed03) 
+<br>
+[![NXTDEV](https://img.shields.io/badge/Nxtdev-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://nxtdev.in)
+
+---
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -34,8 +51,8 @@
 <br/>
 [![wakatime](https://wakatime.com/badge/user/d9eddcfd-8a78-4188-b6d9-6d0af2abf114.svg)](https://wakatime.com/@d9eddcfd-8a78-4188-b6d9-6d0af2abf114)
 
-
-
+---
+<img src="https://raw.githubusercontent.com/godspeed-03/godspeed-03/output/snake.svg" alt="Snake animation" />
 
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=godspeed-03&layout=compact&theme=chartreuse-dark) -->
