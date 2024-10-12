@@ -134,7 +134,7 @@ Feel free to reach out or explore my projects to see my work in action!
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=godspeed03&layout=compact&theme=neon" alt="Wakatime Stats" style="display: block; margin: 0 auto;"/>
     </td>
    <td style="padding: 10px; min-height: 200px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godspeed-03&layout=compact&theme=chartreuse-dark"/>
+ <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godspeed-03&layout=compact&theme=chartreuse-dark"/> -->
     </td> 
   </tr> 
 </table>
