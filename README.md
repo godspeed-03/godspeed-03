@@ -141,10 +141,8 @@ Feel free to reach out or explore my projects to see my work in action!
 
 ---
 <!--![](https://visitcount.itsvg.in/api?id=godspeed-03&label=Profile%20Views&pretty=true)-->
-<br/>
 [![wakatime](https://wakatime.com/badge/user/d9eddcfd-8a78-4188-b6d9-6d0af2abf114.svg)](https://wakatime.com/@d9eddcfd-8a78-4188-b6d9-6d0af2abf114)
 
----
 <!-- <img src="https://raw.githubusercontent.com/godspeed-03/godspeed-03/output/snake.svg" alt="Snake animation" /> -->
 
 
