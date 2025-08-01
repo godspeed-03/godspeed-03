@@ -3,7 +3,7 @@
 I'm **Satyam**, a **Full-Stack Developer** with a strong passion for crafting scalable web applications. My expertise includes:
 
 ### 🛠️ Tech Stack  
-<table border="1" cellpadding="10" cellspacing="0">
+<table border="1" cellspacing="0">
     <tr>
       <th>Category</th>
       <th>Technology / Skill</th>
